@@ -1,0 +1,1 @@
+# plugins-woocommerce-more-sorting
